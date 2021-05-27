@@ -1,0 +1,12 @@
+{
+  "name": "Class39-JAMStackTodoApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/smmartprogrammer/Class39-JAMStackTodoApp.git",
+  "author": "Raghunathji <partabrajp@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
