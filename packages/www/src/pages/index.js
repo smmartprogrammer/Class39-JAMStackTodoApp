@@ -1,3 +1,8 @@
 import React from 'react';
+import { Container } from 'theme-ui';
 
-export default (props) => <div>Hello World</div>;
+export default (props) => (
+  <Container>
+    <h1> Hello World</h1>
+  </Container>
+);
